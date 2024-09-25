@@ -1,0 +1,35 @@
+body {
+	background-image: linear-gradient(
+		90deg,
+		rgba(101, 23, 88, 1) 0%,
+		rgba(49, 21, 98, 1) 35%,
+		rgba(27, 24, 52, 1) 100%
+	);
+}
+
+h3 {
+	font-size: 18px;
+	font-family: sans-serif;
+	color: #ff1675;
+}
+
+h1 {
+	font-size: 48px;
+	font-family: sans-serif;
+	color: white;
+}
+
+p {
+	font-family: sans-serif;
+	color: white;
+}
+
+button {
+	color: pink;
+}
+
+.text-box {
+	width: 60%; /* Control the width of the content box */
+	max-width: 800px; /* Maximum width */
+	padding: 20px;
+}
