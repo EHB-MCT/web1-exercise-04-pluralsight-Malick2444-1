@@ -24,12 +24,23 @@ p {
 	color: white;
 }
 
-button {
+a {
 	color: pink;
+	border: ;
+	padding: 10px 20px;
+	cursor: pointer;
 }
 
 .text-box {
 	width: 60%; /* Control the width of the content box */
 	max-width: 800px; /* Maximum width */
 	padding: 20px;
+	text-align: center;
+}
+
+.button {
+	display: inline-block;
+	background-color: #ff1675;
+	border-radius: 25px;
+	color: white;
 }
